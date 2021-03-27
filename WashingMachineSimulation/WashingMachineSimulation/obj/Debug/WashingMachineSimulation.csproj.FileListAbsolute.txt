@@ -1,0 +1,81 @@
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+c:\users\lab\documents\visual studio 2013\Projects\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+C:\Users\Xavier\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojAssemblyReference.cache
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.cache
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.CoreCompileInputs.cache
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+D:\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\Rattler.dll
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+C:\Users\Lab\Desktop\新建文件夹\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+G:\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+G:\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+G:\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\Rattler.dll
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+C:\Users\Allez\Desktop\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\Rattler.dll
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojResolveAssemblyReference.cache
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+G:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+C:\Users\Lab\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.pdb
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Form1.resources
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.Properties.Resources.resources
+C:\Users\Allez\Desktop\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.csproj.GenerateResource.Cache
+J:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\bin\Debug\WashingMachineSimulation.exe.config
+J:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.exe
+J:\洗衣机模拟项目\WashingMachineSimulation\WashingMachineSimulation\obj\Debug\WashingMachineSimulation.pdb
